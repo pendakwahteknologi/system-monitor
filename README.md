@@ -2,7 +2,7 @@
 
 Real-time terminal system monitor for ML/AI training workloads on Ubuntu 24.04.4, optimised for:
 
-- AMD Radeon AI PRO R9700 (ROCm)
+- ASUS TURBO Radeon™ AI PRO R9700 (ROCm) - https://www.asus.com/motherboards-components/graphics-cards/turbo/turbo-ai-pro-r9700-32g/
 - Intel Core Ultra 7 265K
 - Narrow vertical terminal layouts (side-by-side with training logs)
 
